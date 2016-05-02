@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quidsenseritcar00fontgoog_0148.png"; bbox 0 0 3275 5167; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 2530 1301 2577">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 2530 1301 2577">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 2530 1301 2577; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 529 2532 700 2577; x_wconf 73' lang='lat' dir='ltr'><strong>Auum.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 723 2548 763 2559; x_wconf 93' lang='lat'>-·</span> <span class='ocrx_word' id='word_1_3' title='bbox 788 2532 993 2576; x_wconf 68' lang='lat' dir='ltr'>llss’fflfflssss</span> <span class='ocrx_word' id='word_1_4' title='bbox 1013 2530 1145 2575; x_wconf 72' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_5' title='bbox 1165 2532 1301 2577; x_wconf 78' lang='lat' dir='ltr'><strong>LANIER</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1642 5167">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1642 5167">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1642 5167; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1642 5167; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
